@@ -1,9 +1,10 @@
-import java.util.Scanner;
-
 /*
  * Faça um programa em Java que diz o signo de uma pessoa a 
  * partir da data de nascimento.
  */
+
+import java.util.Scanner;
+
 
 
 public class Signo {
